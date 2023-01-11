@@ -12,6 +12,14 @@ body{
     overflow: hidden;
 }
 
+html{
+    scroll-behavior: smooth;
+}
+
+a{
+    text-decoration: none;
+}
+
 .main::-webkit-scrollbar{
     width: 9px;
     background: wheat;
